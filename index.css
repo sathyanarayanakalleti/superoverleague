@@ -1,0 +1,15 @@
+/* Write your code here. */
+.supertext {
+  text-align: center;
+  font-family: "roboto";
+  background-color: #0f172a;
+  height: 100vh;
+  padding-top: 200px;
+}
+.stext {
+  color: #f8fafc;
+}
+.img1 {
+  width: 40vw;
+  height: 40vh;
+}
